@@ -18,5 +18,5 @@
 
 ## 関連
 - 自動再生直後に一時停止する拡張機能 https://github.com/dnek/nicovideo-autoplay-canceler
-- 連続再生をキャンセルする拡張機能 https://github.com/dnek/nicovideo-next-video-canceler
-- ウィンドウサイズに合わせてプレイヤーを拡大する拡張機能 https://github.com/dnek/nicovideo-player-expander
+- 連続再生を少し便利にする拡張機能 https://github.com/dnek/nicovideo-next-video-canceler
+- 「シアターモード」または「ブラウザ内最大化」をする拡張機能 https://github.com/dnek/nicovideo-player-expander
