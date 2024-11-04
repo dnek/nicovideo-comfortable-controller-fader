@@ -10,7 +10,7 @@
 - 以上に関係なく、動画プレイヤーが読み込まれてから数秒間は表示したままになる
 
 ## インストール
-- Chromeウェブストア 追加予定
+- Chromeウェブストア https://chrome.google.com/webstore/detail/heoekndckahoongdabahbicefplngeph
 - Greasy Fork（多くのブラウザに対応） https://greasyfork.org/ja/scripts/515223-nicovideo-comfortable-controller-fader
 
 ## ソース
