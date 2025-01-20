@@ -10,6 +10,9 @@
 - 以上に関係なく、動画プレイヤーが読み込まれてから数秒間は表示したままになる
 
 ## インストール
+2024年11月7日に[ニコニコ公式がこの問題を解決しました](https://blog.nicovideo.jp/niconews/238193.html)。
+この拡張機能をご利用中の方はアンインストールすることをお勧めします。
+
 - Chromeウェブストア https://chrome.google.com/webstore/detail/heoekndckahoongdabahbicefplngeph
 - Greasy Fork（多くのブラウザに対応） https://greasyfork.org/ja/scripts/515223-nicovideo-comfortable-controller-fader
 
